@@ -1,7 +1,7 @@
 # FreeCodeCamp_Machine_Learning_with_Python
 Machine Learning with Python project of FreeCodeCamp
 
-Project 1: Rock Paper Scissors
+## Project 1: Rock Paper Scissors
 I referenced the code of MarkovChainClean.py from https://github.com/goelp14/RockPaperScissors.git and modified it, but it still can't fullfill the 60% winning rate for all the tests, I will continue to solving it. The result is below, it is not obviously better than directly asign value to the corresponding conditions.
 
 Final results: {'p1': 461, 'p2': 110, 'tie': 429}
