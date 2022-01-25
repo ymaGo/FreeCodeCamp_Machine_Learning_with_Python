@@ -39,11 +39,19 @@ Final results: {'p1': 454, 'p2': 490, 'tie': 56}
 Player 1 win rate: 48.09322033898305%
 
 ## Fourier Method Fourier(3, order=1) DeterministicProcess(period=3）
+
 Final results: {'p1': 401, 'p2': 200, 'tie': 399}
+
 Player 1 win rate: 66.72212978369384%
+
 Final results: {'p1': 468, 'p2': 269, 'tie': 263}
+
 Player 1 win rate: 63.50067842605156%
+
 Final results: {'p1': 332, 'p2': 335, 'tie': 333}
+
 Player 1 win rate: 49.77511244377811%
+
 Final results: {'p1': 308, 'p2': 567, 'tie': 125}
+
 Player 1 win rate: 35.199999999999996%
