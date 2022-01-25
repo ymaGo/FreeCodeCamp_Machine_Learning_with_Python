@@ -19,3 +19,21 @@ Player 1 win rate: 47.97687861271676%
 Final results: {'p1': 445, 'p2': 332, 'tie': 223}
 
 Player 1 win rate: 57.27155727155727%
+
+## Fourier Method
+
+Final results: {'p1': 401, 'p2': 198, 'tie': 401}
+
+Player 1 win rate: 66.9449081803005%
+
+Final results: {'p1': 355, 'p2': 493, 'tie': 152}
+
+Player 1 win rate: 41.863207547169814%
+
+Final results: {'p1': 466, 'p2': 67, 'tie': 467}
+
+Player 1 win rate: 87.4296435272045%
+
+Final results: {'p1': 454, 'p2': 490, 'tie': 56}
+
+Player 1 win rate: 48.09322033898305%
