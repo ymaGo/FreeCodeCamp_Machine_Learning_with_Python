@@ -55,3 +55,26 @@ Player 1 win rate: 49.77511244377811%
 Final results: {'p1': 308, 'p2': 567, 'tie': 125}
 
 Player 1 win rate: 35.199999999999996%
+
+
+## Fourier Method Fourier(3, order=1) DeterministicProcess(period=3）
+
+loop for all the possibilities of the assignment of the value combination to the R,P,S
+
+Althoug the win rate are so low, I'm happy about it because there must be something was found, it is impossible to avoid all of the correct answers even for random selection.
+
+Final results: {'p1': 400, 'p2': 200, 'tie': 400}
+
+Player 1 win rate: 66.66666666666666%
+
+Final results: {'p1': 1, 'p2': 997, 'tie': 2}
+
+Player 1 win rate: 0.1002004008016032%
+
+Final results: {'p1': 2, 'p2': 998, 'tie': 0}
+
+Player 1 win rate: 0.2%
+
+Final results: {'p1': 2, 'p2': 997, 'tie': 1}
+
+Player 1 win rate: 0.20020020020020018%
