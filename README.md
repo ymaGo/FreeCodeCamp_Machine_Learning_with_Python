@@ -78,3 +78,19 @@ Player 1 win rate: 0.2%
 Final results: {'p1': 2, 'p2': 997, 'tie': 1}
 
 Player 1 win rate: 0.20020020020020018%
+
+## Fourier(3, order=1) DeterministicProcess(period=3）tail 3
+
+Player 1 win rate: 100.0%
+
+Final results: {'p1': 169, 'p2': 664, 'tie': 167}
+
+Player 1 win rate: 20.28811524609844%
+
+Final results: {'p1': 166, 'p2': 667, 'tie': 167}
+
+Player 1 win rate: 19.92797118847539%
+
+Final results: {'p1': 755, 'p2': 145, 'tie': 100}
+
+Player 1 win rate: 83.88888888888889%
