@@ -94,3 +94,7 @@ Player 1 win rate: 19.92797118847539%
 Final results: {'p1': 755, 'p2': 145, 'tie': 100}
 
 Player 1 win rate: 83.88888888888889%
+
+## I plan to use Rienforcement Learning to have a try
+
+to be continued...
