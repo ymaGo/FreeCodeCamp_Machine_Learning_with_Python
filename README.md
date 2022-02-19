@@ -98,3 +98,5 @@ Player 1 win rate: 83.88888888888889%
 ## I plan to use Rienforcement Learning to have a try
 
 to be continued...
+
+## try lag series
