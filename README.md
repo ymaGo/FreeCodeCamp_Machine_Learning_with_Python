@@ -2,6 +2,9 @@
 Machine Learning with Python project of FreeCodeCamp
 
 ## Project 1: Rock Paper Scissors
+
+## First try: Markov model: failed
+
 I referenced the code of MarkovChainClean.py from https://github.com/goelp14/RockPaperScissors.git and modified it, but it still can't fullfill the 60% winning rate for all the tests, I will continue to solving it. The result is below, it is not obviously better than directly asign value to the corresponding conditions.
 
 Final results: {'p1': 461, 'p2': 110, 'tie': 429}
@@ -20,7 +23,7 @@ Final results: {'p1': 445, 'p2': 332, 'tie': 223}
 
 Player 1 win rate: 57.27155727155727%
 
-## Fourier Method
+## Second try: Fourier Method: failed
 
 Final results: {'p1': 401, 'p2': 198, 'tie': 401}
 
@@ -38,65 +41,11 @@ Final results: {'p1': 454, 'p2': 490, 'tie': 56}
 
 Player 1 win rate: 48.09322033898305%
 
-## Fourier Method Fourier(3, order=1) DeterministicProcess(period=3）
+## Third try: lag time series: failed
 
-Final results: {'p1': 401, 'p2': 200, 'tie': 399}
+there aren't any relationship between lag series after analysing partial auto correlation.
 
-Player 1 win rate: 66.72212978369384%
-
-Final results: {'p1': 468, 'p2': 269, 'tie': 263}
-
-Player 1 win rate: 63.50067842605156%
-
-Final results: {'p1': 332, 'p2': 335, 'tie': 333}
-
-Player 1 win rate: 49.77511244377811%
-
-Final results: {'p1': 308, 'p2': 567, 'tie': 125}
-
-Player 1 win rate: 35.199999999999996%
-
-
-## Fourier Method Fourier(3, order=1) DeterministicProcess(period=3）
-
-loop for all the possibilities of the assignment of the value combination to the R,P,S
-
-Althoug the win rate are so low, I'm happy about it because there must be something was found, it is impossible to avoid all of the correct answers even for random selection.
-
-Final results: {'p1': 400, 'p2': 200, 'tie': 400}
-
-Player 1 win rate: 66.66666666666666%
-
-Final results: {'p1': 1, 'p2': 997, 'tie': 2}
-
-Player 1 win rate: 0.1002004008016032%
-
-Final results: {'p1': 2, 'p2': 998, 'tie': 0}
-
-Player 1 win rate: 0.2%
-
-Final results: {'p1': 2, 'p2': 997, 'tie': 1}
-
-Player 1 win rate: 0.20020020020020018%
-
-## Fourier(3, order=1) DeterministicProcess(period=3）tail 3
-
-Player 1 win rate: 100.0%
-
-Final results: {'p1': 169, 'p2': 664, 'tie': 167}
-
-Player 1 win rate: 20.28811524609844%
-
-Final results: {'p1': 166, 'p2': 667, 'tie': 167}
-
-Player 1 win rate: 19.92797118847539%
-
-Final results: {'p1': 755, 'p2': 145, 'tie': 100}
-
-Player 1 win rate: 83.88888888888889%
-
-## I plan to use Rienforcement Learning to have a try
+## Fourth try: I plan to use Rienforcement Learning to have a try
 
 to be continued...
 
-## try lag series
